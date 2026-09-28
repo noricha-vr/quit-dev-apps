@@ -5,7 +5,6 @@ apps=(
   "Cursor"
   "PyCharm"
   "Visual Studio Code"
-  "iTerm"
   "Terminal"        # これもまとめて閉じる
 )
 
